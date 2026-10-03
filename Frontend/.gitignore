@@ -1,3 +1,6 @@
 node_modules/
 dist/
 .angular/
+
+# Local environment config — copy .env.example instead of committing this
+.env
